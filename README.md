@@ -1,4 +1,4 @@
-## OLá, eu sou a Janaína!
+## Olá, eu sou a Janaína!
 ## Eu tenho 31 anos, sou de São Paulo, moro em Itaquaquecetuba (trava língua) e estou me aventurando pelo universo da programação. 
 ## Bem vindo ao meu perfil GitHub 👋
 
