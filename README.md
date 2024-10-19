@@ -6,7 +6,7 @@
 💻 Sou formada em Sistemas de Informação, tenho a CTFL e estou fazendo alguns cursos de programação na Alura.
 🔭 Atualmente estou trabalhando como QA no Itaú Unibanco.
 🌱 Estou estudando tecnologias da área de back-end para fazer a migração de carreira.
-🖥️ Tecnologias e Ferramentas:
+🖥️ Tecnologias e Ferramentas: 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>                   
