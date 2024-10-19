@@ -1,6 +1,6 @@
-## Olá, eu sou a Janaína!
-## Eu tenho 31 anos, sou de São Paulo e estou me aventurando pelo universo da programação. 
-## Bem vindo ao meu perfil GitHub 👋
+## Olá Devs, eu sou a Janaína! ✨
+### Eu tenho 31 anos, sou de São Paulo e estou me aventurando pelo universo da programação. 
+
 
 
 - Sou formada em Sistemas de Informação, tenho a certificação básica de Testes (CTFL) e estou fazendo alguns cursos de programação na Alura. 
