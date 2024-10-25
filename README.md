@@ -1,5 +1,5 @@
 ## Olá Devs, eu sou a Janaína! ✨
-### Eu tenho 31 anos, sou de São Paulo e estou me aventurando pelo universo da programação. 
+### Eu sou de São Paulo e estou me aventurando pelo universo da programação. 
 
 
 
