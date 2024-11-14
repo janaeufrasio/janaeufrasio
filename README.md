@@ -1,5 +1,5 @@
 ## Olá Devs, eu sou a Janaína! ✨
-### Eu sou de São Paulo e estou me aventurando pelo universo da programação. 
+### Sou QA e estou me aventurando pelo universo da programação para migrar de carreira, o meu objetivo é me tornar uma Dev Backend!  
 
 
 
