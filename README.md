@@ -5,8 +5,6 @@
 
 - Sou formada em Sistemas de Informação, tenho a certificação básica de Testes (CTFL) e estou fazendo alguns cursos de programação na Alura. 
 
-- Atualmente estou trabalhando como Quality Assurance (QA) no Itaú Unibanco. 
-
 -  Estou estudando tecnologias da área de back-end para fazer a migração de carreira. 
 
 - Tecnologias e Ferramentas:  
