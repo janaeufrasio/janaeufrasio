@@ -1,11 +1,11 @@
 ## Olá Devs, eu sou a Janaína! ✨
-### Sou QA e estou me aventurando pelo universo da programação para migrar de carreira, o meu objetivo é me tornar uma Dev Backend!  
+### Sou QA e estou me aventurando pelo universo da programação!  
 
 
 
 - Sou formada em Sistemas de Informação, tenho a certificação básica de Testes (CTFL) e estou fazendo alguns cursos de programação na Alura. 
 
--  Estou estudando tecnologias da área de back-end para fazer a migração de carreira. 
+-  Estou estudando tecnologias da área de back-end para aprofundar meus conhecimentos e alavancar a minha carreira. 
 
 - Tecnologias e Ferramentas:  
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
