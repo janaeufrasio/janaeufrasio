@@ -26,10 +26,6 @@ Contato:
           
 
 
-<div>
-<a href="https://github.com/janaeufrasio">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaeufrasio&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=janaeufrasio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
+<p align="center">✨ Obrigada pela visita!  
+Sinta-se à vontade para explorar meus repositórios! ✨</p>
 
