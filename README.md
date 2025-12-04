@@ -3,7 +3,9 @@
 
 
 
-- Sou formada em Sistemas de Informação, tenho a certificação básica de Testes (CTFL) e estou fazendo alguns cursos na Alura. 
+- Sou formada em Sistemas de Informação, tenho a certificação básica de Testes (CTFL) e estou fazendo alguns cursos na Alura.
+  
+-  Estou fazendo MBA em Gestão da Qualidade de Software.
 
 -  Gosto de estudar e me atualizar, estou sempre em busca de conhecimentos, novas tecnologias, ferramentas e melhores práticas para aprimorar o meu trabalho. 
 
